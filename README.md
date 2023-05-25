@@ -2,7 +2,7 @@
 
 I'm a beginner iOS developer and I'm working on some apps to publish in the future :)
 
-You can find more info here: [bartminski.ga](https://bartminski.ga).
+You can find more info here: [bartminski.dev](https://bartminski.dev).
 
 Download [Walut](https://apps.apple.com/app/id6444106558) now on the App Store!
 
