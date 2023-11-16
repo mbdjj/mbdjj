@@ -1,6 +1,6 @@
 ### Hey I'm Marcin!
 
-I'm a beginner iOS developer and I'm working on some apps to publish in the future :)
+I'm an iOS developer searching for a job and working on my personal projects :)
 
 You can find more info here: [bartminski.dev](https://bartminski.dev).
 
